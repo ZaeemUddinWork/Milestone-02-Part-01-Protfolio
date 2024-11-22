@@ -86,7 +86,7 @@ export default function About() {
                         <li>About Company</li>
                     </ul>
                     <h1 className="text-4xl lg:text-6xl font-serif text-gray-900">
-                        Our Company's Mission
+                        Our Company&#39;s Mission
                     </h1>
                     <p className="text-gray-700 leading-relaxed">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi rerum
@@ -124,21 +124,21 @@ export default function About() {
                 <h2 className="text-5xl font-serif text-center text-gray-800">What Our Clients Say</h2>
                 <div className="mt-10 grid grid-rows-1 gap-y-5 lg:flex justify-center lg:space-x-10">
                     <div className="bg-white p-6 rounded-xl shadow-lg max-w-xs">
-                        <p className="text-xl text-gray-700">"Great service! WeboraTech brought my vision to life with stunning design. I'm beyond impressed!"</p>
+                        <p className="text-xl text-gray-700">&#34;Great service! WeboraTech brought my vision to life with stunning design. I&#39;m beyond impressed!&#34;</p>
                         <div className="flex items-center mt-4">
                             <Image src="https://randomuser.me/api/portraits/men/5.jpg" alt="Client" width={40} height={40} className="rounded-full" />
                             <p className="ml-2 font-semibold text-gray-700">John Doe</p>
                         </div>
                     </div>
                     <div className="bg-white p-6 rounded-xl shadow-lg max-w-xs">
-                    <p className="text-xl text-gray-700">"Excellent service! WeboraTech created a beautiful website that exceeded my expectations. Highly recommend!"</p>
+                    <p className="text-xl text-gray-700">&#34;Excellent service! WeboraTech created a beautiful website that exceeded my expectations. Highly recommend!&#34;</p>
                     <div className="flex items-center mt-4">
                         <Image src="https://randomuser.me/api/portraits/women/2.jpg" alt="Client" width={40} height={40} className="rounded-full" />
                         <p className="ml-2 font-semibold text-gray-700">Elizabeth</p>
                     </div>
                     </div>
                     <div className="bg-white p-6 rounded-xl shadow-lg max-w-xs">
-                        <p className="text-xl text-gray-700">"Fantastic experience! The team at WeboraTech delivered exactly what I needed. Very professional and quick!"</p>
+                        <p className="text-xl text-gray-700">&#34;Fantastic experience! The team at WeboraTech delivered exactly what I needed. Very professional and quick!&#34;</p>
                         <div className="flex items-center mt-4">
                             <Image src="https://randomuser.me/api/portraits/women/6.jpg" alt="Client" width={40} height={40} className="rounded-full" />
                             <p className="ml-2 font-semibold text-gray-700">Jane Smith</p>

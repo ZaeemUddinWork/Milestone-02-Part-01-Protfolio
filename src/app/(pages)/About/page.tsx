@@ -1,7 +1,6 @@
 import About from "@/components/(About)/About-content/About"
-import Header from "@/components/(Other Items)/Header/Header"
 
-export default () => {
+ let about =  () => {
   return(
     <div>
       
@@ -10,3 +9,5 @@ export default () => {
     </div>
   )
 }
+
+export default about;

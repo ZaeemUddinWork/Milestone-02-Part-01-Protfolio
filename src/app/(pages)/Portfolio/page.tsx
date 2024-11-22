@@ -79,7 +79,7 @@ const PortfolioPage = () => {
         <div className="mt-10 grid grid-rows-1 gap-y-5 lg:flex justify-center lg:space-x-10">
           <div className="max-w-xs bg-white p-6 rounded-xl shadow-lg">
             <p className="text-lg text-gray-700">
-              "The team at WeboraTech exceeded our expectations with their creativity and attention to detail."
+            &quot;The team at WeboraTech exceeded our expectations with their creativity and attention to detail.&quot;
             </p>
             <div className="flex items-center mt-4">
               <Image
@@ -94,7 +94,7 @@ const PortfolioPage = () => {
           </div>
           <div className="max-w-xs bg-white p-6 rounded-xl shadow-lg">
             <p className="text-lg text-gray-700">
-              "Amazing service! They delivered a beautiful website and app in record time. Highly recommend!"
+            &quot;Amazing service! They delivered a beautiful website and app in record time. Highly recommend!&quot;
             </p>
             <div className="flex items-center mt-4">
               <Image
@@ -108,7 +108,7 @@ const PortfolioPage = () => {
             </div>
           </div>
           <div className="bg-white p-6 rounded-xl shadow-lg max-w-xs">
-                        <p className="text-xl text-gray-700">"Fantastic experience! The team at WeboraTech delivered exactly what I needed. Very professional and quick!"</p>
+                        <p className="text-xl text-gray-700">&quot;Fantastic experience! The team at WeboraTech delivered exactly what I needed. Very professional and quick!&quot;</p>
                         <div className="flex items-center mt-4">
                             <Image src="https://randomuser.me/api/portraits/women/6.jpg" alt="Client" width={40} height={40} className="rounded-full" />
                             <p className="ml-2 font-semibold text-gray-700">Jane Smith</p>
