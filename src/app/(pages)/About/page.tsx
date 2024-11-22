@@ -1,6 +1,6 @@
 import About from "@/components/(About)/About-content/About"
 
- let about =  () => {
+ const about =  () => {
   return(
     <div>
       
